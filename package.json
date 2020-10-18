@@ -17,6 +17,9 @@
     "react-router-use-location-state": "^2.3.1",
     "react-scripts": "3.4.3"
   },
+  "engines": {
+   "node": ">= 8.0.0"
+  }
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
