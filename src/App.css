@@ -1,0 +1,78 @@
+.App {
+  background: lightcyan;
+}
+.card-img-top {
+  background-color: lightgray;
+}
+.card {
+  padding: 10px 10px 10px 10px;
+  width: 100%;
+  border-radius: 5px 5px 5px 5px;
+  border: 1px lightcyan;
+  box-shadow: lightgray;
+}
+.card-title, .card-text {
+  margin: 4px;
+  margin-bottom: 0px!important;
+  font-size: 11px;
+  font-weight: bold;
+}
+.card-title span {
+  color: blue;
+  font-weight: normal;
+}
+.card-text span{
+  font-weight: bold;
+}
+.mission_name {
+  color: blue;
+  font-weight: bold;
+  font-size: 14px
+}
+.color_list {
+  color: blue;
+  line-height: 10x;
+}
+.title_css h4{
+  font-weight: bold;
+  font-size: 25px;
+  
+}
+.title_css_footer {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center
+}
+.filter_head {
+  font-weight: bolder;
+  font-size: 12px;
+}
+.card-header {
+  margin-bottom: 0;
+  background-color: whitesmoke!important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  text-align: center;
+  padding: 0px!important;
+}
+.form-control {
+  margin-top: -10px;
+}
+.button_css button {
+  background-color: lightgreen;
+  border: none;
+  border-radius: 5px;
+}
+
+.button_css button:focus {
+  background-color: orange;
+}
+  
+.d-flex {
+  margin-bottom: 2%!important;
+}
+
+.side_car_title {
+  text-align: center;
+  font-weight: 400;
+  border-bottom: 1px solid gray;
+}
