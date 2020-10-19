@@ -11,4 +11,3 @@ export default function Color({ name, onClick, location }) {
         </button>
   );
 }
-
